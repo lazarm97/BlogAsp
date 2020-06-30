@@ -1,0 +1,15 @@
+C:\Users\lazar\source\repos\BlogAsp\EfDataAccess\bin\Debug\netcoreapp3.1\EfDataAccess.deps.json
+C:\Users\lazar\source\repos\BlogAsp\EfDataAccess\bin\Debug\netcoreapp3.1\EfDataAccess.dll
+C:\Users\lazar\source\repos\BlogAsp\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.csprojAssemblyReference.cache
+C:\Users\lazar\source\repos\BlogAsp\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.AssemblyInfoInputs.cache
+C:\Users\lazar\source\repos\BlogAsp\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.AssemblyInfo.cs
+C:\Users\lazar\source\repos\BlogAsp\EfDataAccess\bin\Debug\netcoreapp3.1\EfDataAccess.runtimeconfig.json
+C:\Users\lazar\source\repos\BlogAsp\EfDataAccess\bin\Debug\netcoreapp3.1\EfDataAccess.runtimeconfig.dev.json
+C:\Users\lazar\source\repos\BlogAsp\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.genruntimeconfig.cache
+C:\Users\lazar\source\repos\BlogAsp\EfDataAccess\bin\Debug\netcoreapp3.1\EfDataAccess.pdb
+C:\Users\lazar\source\repos\BlogAsp\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.dll
+C:\Users\lazar\source\repos\BlogAsp\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.pdb
+C:\Users\lazar\source\repos\BlogAsp\EfDataAccess\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\lazar\source\repos\BlogAsp\EfDataAccess\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\lazar\source\repos\BlogAsp\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.csproj.CopyComplete
+C:\Users\lazar\source\repos\BlogAsp\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.csproj.CoreCompileInputs.cache
