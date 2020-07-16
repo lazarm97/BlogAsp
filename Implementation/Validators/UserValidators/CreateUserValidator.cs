@@ -37,6 +37,11 @@ namespace Implementation.Validators.UserValidators
                 .NotEmpty()
                 .Must(id => _context.Roles.Any(r => r.Id == id))
                 .WithMessage("Role with this id does not exist");
+
+            RuleFor(x => x.Email)
+                .NotEmpty()
+                .Must(email => !_context.Users.Any(u => u.Email == email))
+                .WithMessage("Email does not exist or not unique");
         }
     }
 }

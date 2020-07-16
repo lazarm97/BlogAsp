@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SfeVzy4bqt+lJYFPC5YUvPfWh/1lZQEgTZ91JqsPNNRUNWYbfFlyJ7Wr9wgquyXdVOjgzIGK1oI/bMc4sRFjEg==",
+  "dgSpecHash": "TmSNAgxZpQz57TQb+nwFZgQRpuW8UvAZQXC84LrOh24bzL45TFtTn2f5AxONoJUQqKN2+zE4tEVwGGF/t7BnNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lazar\\source\\repos\\BlogAsp\\EfDataAccess\\EfDataAccess.csproj",
+  "projectFilePath": "C:\\Users\\lazar\\Desktop\\GIT\\BlogAsp\\EfDataAccess\\EfDataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lazar\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\lazar\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

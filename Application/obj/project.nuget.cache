@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sMfKkzNZHuRbJDtGDKHngFm2w/jmJR1Y3d+g6rWXjf7XLfAyqlhXCgvuiOfPoh9+yZyblnnImtnxPKMx+mq5KA==",
+  "dgSpecHash": "gjYV35aSN3LqXex0e6Yn/qjRiUYOZWnThcpsWZ/ZuzMHzUW77BNohJElONmijSjsXTx7SsLfnov2kgRLtOnLaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lazar\\source\\repos\\BlogAsp\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\lazar\\Desktop\\GIT\\BlogAsp\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lazar\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\lazar\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.5\\microsoft.aspnetcore.http.features.3.1.5.nupkg.sha512",

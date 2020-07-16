@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lazar\\source\\repos\\BlogAsp\\EfDataAccess\\EfDataAccess.csproj": {}
+    "C:\\Users\\lazar\\Desktop\\GIT\\BlogAsp\\EfDataAccess\\EfDataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lazar\\source\\repos\\BlogAsp\\Domain\\Domain.csproj": {
+    "C:\\Users\\lazar\\Desktop\\GIT\\BlogAsp\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lazar\\source\\repos\\BlogAsp\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\lazar\\Desktop\\GIT\\BlogAsp\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\lazar\\source\\repos\\BlogAsp\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\lazar\\Desktop\\GIT\\BlogAsp\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\lazar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lazar\\source\\repos\\BlogAsp\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\lazar\\Desktop\\GIT\\BlogAsp\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lazar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\lazar\\source\\repos\\BlogAsp\\EfDataAccess\\EfDataAccess.csproj": {
+    "C:\\Users\\lazar\\Desktop\\GIT\\BlogAsp\\EfDataAccess\\EfDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lazar\\source\\repos\\BlogAsp\\EfDataAccess\\EfDataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\lazar\\Desktop\\GIT\\BlogAsp\\EfDataAccess\\EfDataAccess.csproj",
         "projectName": "EfDataAccess",
-        "projectPath": "C:\\Users\\lazar\\source\\repos\\BlogAsp\\EfDataAccess\\EfDataAccess.csproj",
+        "projectPath": "C:\\Users\\lazar\\Desktop\\GIT\\BlogAsp\\EfDataAccess\\EfDataAccess.csproj",
         "packagesPath": "C:\\Users\\lazar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lazar\\source\\repos\\BlogAsp\\EfDataAccess\\obj\\",
+        "outputPath": "C:\\Users\\lazar\\Desktop\\GIT\\BlogAsp\\EfDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lazar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\lazar\\source\\repos\\BlogAsp\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\lazar\\source\\repos\\BlogAsp\\Domain\\Domain.csproj"
+              "C:\\Users\\lazar\\Desktop\\GIT\\BlogAsp\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\lazar\\Desktop\\GIT\\BlogAsp\\Domain\\Domain.csproj"
               }
             }
           }

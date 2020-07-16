@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZKJqP/fhzoepB5dU6FGLEV49mQkCKF83uUIZTC+hoEXUHDhs2Ysl2VDEywKpLiHOwLX5JbiD46i6jl6im0cyrw==",
+  "dgSpecHash": "BdXl0p9b77iuDxjg0eLM1Nf7pbT/nzhi+XmD9sL9CPP6ISogIuA63J0DgQBsQd9yBMgPHDPDxUBa+ogGCEz0bQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lazar\\source\\repos\\BlogAsp\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\lazar\\Desktop\\GIT\\BlogAsp\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lazar\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\lazar\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

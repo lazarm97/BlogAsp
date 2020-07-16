@@ -10,6 +10,7 @@
         "dependencies": {
           "Application": "1.0.0",
           "AutoMapper": "9.0.0",
+          "EasyEncryption.Core": "1.0.0",
           "EfDataAccess": "1.0.0",
           "FluentValidation": "8.6.2",
           "Newtonsoft.Json": "12.0.3"
@@ -27,6 +28,14 @@
           "lib/netstandard2.0/AutoMapper.dll": {
             "assemblyVersion": "9.0.0.0",
             "fileVersion": "9.0.0.0"
+          }
+        }
+      },
+      "EasyEncryption.Core/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/EasyEncryption.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -945,6 +954,13 @@
       "sha512": "sha512-xCqvoxT4HIrNY/xlXG9W+BA/awdrhWvMTKTK/igkGSRbhOhpl3Q8O8Gxlhzjc9JsYqE7sS6AxgyuUUvZ6R5/Bw==",
       "path": "automapper/9.0.0",
       "hashPath": "automapper.9.0.0.nupkg.sha512"
+    },
+    "EasyEncryption.Core/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w8yfahAhSgegeKTQYmuQAx2VP0tuU5vlSIqmObsZmeNfBkBW4+FZWJLVnymRd9KB6nxH96lJSPikEwELp8E1dQ==",
+      "path": "easyencryption.core/1.0.0",
+      "hashPath": "easyencryption.core.1.0.0.nupkg.sha512"
     },
     "FluentValidation/8.6.2": {
       "type": "package",

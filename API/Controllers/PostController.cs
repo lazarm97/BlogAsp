@@ -38,7 +38,7 @@ namespace API.Controllers
         {
             try
             {
-                return Ok(executor.ExecuteQuery(query, search));
+                return Ok(query.Execute(search));
             }
             catch (EntityNotFoundException)
             {
@@ -54,7 +54,7 @@ namespace API.Controllers
         {
             try
             {
-                return Ok(executor.ExecuteQuery(query, id));
+                return Ok(query.Execute(id));
             }
             catch (EntityNotFoundException)
             {

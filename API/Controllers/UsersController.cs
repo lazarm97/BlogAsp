@@ -14,7 +14,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
 {
-    [Authorize]
+
     [Route("api/[controller]")]
     [ApiController]
     public class UsersController : ControllerBase
@@ -29,6 +29,7 @@ namespace API.Controllers
         }
 
         // GET: api/Users
+        [Authorize]
         [HttpGet]
         public IActionResult Get(
             [FromQuery] UserSearch search,
@@ -45,6 +46,7 @@ namespace API.Controllers
         }
 
         // GET: api/Users/5
+        [Authorize]
         [HttpGet("{id}")]
         public IActionResult Get(
             int id,
@@ -67,7 +69,7 @@ namespace API.Controllers
         {
             try
             {
-                executor.ExecuteCommand(command, dto);
+                command.Execute(dto);
                 return StatusCode(StatusCodes.Status201Created);
             }
             catch (EntityNotFoundException)
@@ -77,6 +79,7 @@ namespace API.Controllers
         }
 
         // PUT: api/Users/5
+        [Authorize]
         [HttpPut("{id}")]
         public IActionResult Put(
             int id,
@@ -96,6 +99,7 @@ namespace API.Controllers
         }
 
         // DELETE: api/ApiWithActions/5
+        [Authorize]
         [HttpDelete("{id}")]
         public IActionResult Delete(
             int id,
